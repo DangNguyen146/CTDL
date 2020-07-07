@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Câu trúc dữ liệu và giải thuật\Bt thực hành ngày 11\BTNGAY11\bt3\Source.cpp(92,6): warning C4101: 'x': unreferenced local variable
+D:\Câu trúc dữ liệu và giải thuật\Bt thực hành ngày 11\BTNGAY11\bt3\Source.cpp(64): warning C4715: 'ChieuCao': not all control paths return a value
+  bt3.vcxproj -> D:\Câu trúc dữ liệu và giải thuật\Bt thực hành ngày 11\BTNGAY11\Debug\bt3.exe
